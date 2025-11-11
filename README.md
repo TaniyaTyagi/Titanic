@@ -23,13 +23,15 @@ Displays result clearly:
   ❌ Not Survived
 ```
 
-🛠️ Technologies Used
-Component	Technology
-Programming Language	Python
-Web App Framework	Streamlit
-Data Handling	Pandas
-Model Storage	Pickle
-ML Algorithm	(Depends on your trained model, e.g., Logistic Regression / Random Forest etc.)
+### 🛠️ Technologies Used
+
+| Component            | Technology                                                                      |
+|---------------------|----------------------------------------------------------------------------------|
+| Programming Language | Python                                                                          |
+| Web App Framework    | Streamlit                                                                       |
+| Data Handling        | Pandas                                                                          |
+| Model Storage        | Pickle                                                                          |
+| ML Algorithm         | (Depends on your trained model, e.g., Logistic Regression / Random Forest etc.) |
 
 
 📂 Project Structure
