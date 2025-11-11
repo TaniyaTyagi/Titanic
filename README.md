@@ -8,26 +8,18 @@ The model used in this app is trained on the Titanic dataset (commonly used in K
 User-friendly UI built using Streamlit
 
 Takes passenger inputs such as:
-
-Passenger Class
-
-Sex
-
-Age
-
-Number of Siblings/Spouses
-
-Number of Parents/Children
-
-Ticket Fare
+  * Passenger Class
+  * Sex
+  * Age
+  * Number of Siblings/Spouses
+  * Number of Parents/Children
+  * Ticket Fare
 
 Uses a pre-trained Machine Learning model (titanic_model.pkl) to predict survival
 
 Displays result clearly:
-
-✅ Survived
-
-❌ Not Survived
+  ✅ Survived
+  ❌ Not Survived
 
 🛠️ Technologies Used
 Component	Technology
@@ -39,9 +31,9 @@ ML Algorithm	(Depends on your trained model, e.g., Logistic Regression / Random 
 
 
 📂 Project Structure
-│-- titanic_model.pkl       # Saved ML model
-│-- app.py (or your .py file)   # Streamlit application script
-│-- README.md                # Project documentation
+  │-- titanic_model.pkl       # Saved ML model
+  │-- app.py (or your .py file)   # Streamlit application script
+  │-- README.md                # Project documentation
 
 ▶️ How to Run the App
 1. Install Required Libraries
