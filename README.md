@@ -35,13 +35,12 @@ Displays result clearly:
 
 
 📂 Project Structure
+```
   │-- titanic_model.pkl       # Saved ML model
   │-- app.py (or your .py file)   # Streamlit application script
   │-- README.md                # Project documentation
+```
 
 ▶️ How to Run the App
 1. Install Required Libraries
 pip install streamlit pandas pickle-mixin
-
-2. Run the Streamlit App
-streamlit run app.py
