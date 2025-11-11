@@ -18,8 +18,10 @@ Takes passenger inputs such as:
 Uses a pre-trained Machine Learning model (titanic_model.pkl) to predict survival
 
 Displays result clearly:
+```
   ✅ Survived
   ❌ Not Survived
+```
 
 🛠️ Technologies Used
 Component	Technology
