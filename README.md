@@ -43,4 +43,17 @@ Displays result clearly:
 
 ▶️ How to Run the App
 1. Install Required Libraries
+ ```
 pip install streamlit pandas pickle-mixin
+```
+
+2. Run the Streamlit App
+```
+streamlit run app.py
+```
+
+🎯 Usage Instructions
+ 1. Open the app in your browser after running Streamlit.
+ 2. Select or enter passenger details.
+ 3. Click the Predict Survival button.
+ 4. View your prediction instantly.
