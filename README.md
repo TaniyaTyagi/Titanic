@@ -1,4 +1,4 @@
--> Titanic Survival Prediction – Machine Learning Web App
+### -> Titanic Survival Prediction – Machine Learning Web App
 
 This is a simple and interactive Streamlit web application that predicts whether a passenger would have survived the Titanic disaster based on certain input features.
 The model used in this app is trained on the Titanic dataset (commonly used in Kaggle ML competitions).
