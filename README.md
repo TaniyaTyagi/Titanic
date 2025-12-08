@@ -23,7 +23,7 @@ The model used in this app is trained on the Titanic dataset (commonly used in K
    Not Survived
 ```
 
-##  Technologies Used
+## Technologies Used
 
 | Component            | Technology                                                                      |
 |---------------------|----------------------------------------------------------------------------------|
