@@ -3,6 +3,8 @@
 This is a simple and interactive Streamlit web application that predicts whether a passenger would have survived the Titanic disaster based on certain input features.
 The model used in this app is trained on the Titanic dataset (commonly used in Kaggle ML competitions).
 
+---
+
 ## Features
 
 -> User-friendly UI built using Streamlit
@@ -17,11 +19,15 @@ The model used in this app is trained on the Titanic dataset (commonly used in K
 
 -> Uses a pre-trained Machine Learning model (titanic_model.pkl) to predict survival
 
+---
+
 ## Displays result clearly:
 ```
    Survived
    Not Survived
 ```
+
+---
 
 ## Technologies Used
 
@@ -33,6 +39,7 @@ The model used in this app is trained on the Titanic dataset (commonly used in K
 | Model Storage        | Pickle                                                                          |
 | ML Algorithm         | (Depends on your trained model, e.g., Logistic Regression / Random Forest etc.) |
 
+---
 
 ## Project Structure
 ```
@@ -40,6 +47,8 @@ The model used in this app is trained on the Titanic dataset (commonly used in K
   │-- app.py (or your .py file)   # Streamlit application script
   │-- README.md                # Project documentation
 ```
+
+---
 
 ##  How to Run the App
 ### 1. Install Required Libraries
@@ -51,6 +60,8 @@ pip install streamlit pandas pickle-mixin
 ```
 streamlit run app.py
 ```
+
+---
 
 ## Usage Instructions
  1. Open the app in your browser after running Streamlit.
